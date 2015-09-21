@@ -1,0 +1,211 @@
+{
+  "name": "GDP by industry and country",
+  "title": "GDP by industry and country",
+  "description": "GDP by industry and country - GDP/breakdown at current prices in National currency (all countries)",
+  "license": "PDDL-1.0",
+  "keywords": [ "GDP", "industry", "country" ],
+  "version": "0.0.1",
+  "last_updated": "2015-09-21",
+  "image": "",
+  "sources": [{
+    "name": "OKFN",
+    "web": "https://discuss.okfn.org/t/from-google-spreadsheet-to-data-package-on-github/919/3"
+  }],
+  "resources": [
+    {
+      "path": "data/gdp_by_industry_and_country.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string"
+          },
+          {
+            "name": "Currency",
+            "type": "string"
+          },
+          {
+            "name": "IndicatorName",
+            "type": "string"
+          },
+          {
+            "name": "1970",
+            "type": "float"
+          },
+          {
+            "name": "1971",
+            "type": "float"
+          },
+          {
+            "name": "1972",
+            "type": "float"
+          },
+          {
+            "name": "1973",
+            "type": "float"
+          },
+          {
+            "name": "1974",
+            "type": "float"
+          },
+          {
+            "name": "1975",
+            "type": "float"
+          },
+          {
+            "name": "1976",
+            "type": "float"
+          },
+          {
+            "name": "1977",
+            "type": "float"
+          },
+          {
+            "name": "1978",
+            "type": "float"
+          },
+          {
+            "name": "1979",
+            "type": "float"
+          },
+          {
+            "name": "1980",
+            "type": "float"
+          },
+          {
+            "name": "1981",
+            "type": "float"
+          },
+          {
+            "name": "1982",
+            "type": "float"
+          },
+          {
+            "name": "1983",
+            "type": "float"
+          },
+          {
+            "name": "1984",
+            "type": "float"
+          },
+          {
+            "name": "1985",
+            "type": "float"
+          },
+          {
+            "name": "1986",
+            "type": "float"
+          },
+          {
+            "name": "1987",
+            "type": "float"
+          },
+          {
+            "name": "1988",
+            "type": "float"
+          },
+          {
+            "name": "1989",
+            "type": "float"
+          },
+          {
+            "name": "1990",
+            "type": "float"
+          },
+          {
+            "name": "1991",
+            "type": "float"
+          },
+          {
+            "name": "1992",
+            "type": "float"
+          },
+          {
+            "name": "1993",
+            "type": "float"
+          },
+          {
+            "name": "1994",
+            "type": "float"
+          },
+          {
+            "name": "1995",
+            "type": "float"
+          },
+          {
+            "name": "1996",
+            "type": "float"
+          },
+          {
+            "name": "1997",
+            "type": "float"
+          },
+          {
+            "name": "1998",
+            "type": "float"
+          },
+          {
+            "name": "1999",
+            "type": "float"
+          },
+          {
+            "name": "2000",
+            "type": "float"
+          },
+          {
+            "name": "2001",
+            "type": "float"
+          },
+          {
+            "name": "2002",
+            "type": "float"
+          },
+          {
+            "name": "2003",
+            "type": "float"
+          },
+          {
+            "name": "2004",
+            "type": "float"
+          },
+          {
+            "name": "2005",
+            "type": "float"
+          },
+          {
+            "name": "2006",
+            "type": "float"
+          },
+          {
+            "name": "2007",
+            "type": "float"
+          },
+          {
+            "name": "2008",
+            "type": "float"
+          },
+          {
+            "name": "2009",
+            "type": "float"
+          },
+          {
+            "name": "2010",
+            "type": "float"
+          },
+          {
+            "name": "2011",
+            "type": "float"
+          },
+          {
+            "name": "2012",
+            "type": "float"
+          },
+          {
+            "name": "2013",
+            "type": "float"
+          }
+        ]
+      }
+    }
+  ]
+}
